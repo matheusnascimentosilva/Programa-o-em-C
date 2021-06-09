@@ -1,2 +1,2 @@
-# Programa-o-em-C
+# Programação em C
 Meus códigos em C feitos durante o curso de Computação da UESC
